@@ -10,4 +10,4 @@ main>
  </details>
 </details>
 
-</main
+  </main
